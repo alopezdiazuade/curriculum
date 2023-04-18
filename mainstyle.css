@@ -35,11 +35,7 @@ body{
 .contenido{
     background-color: #7B0D0D;
     position: absolute;
-    width: 1341px;
-    height: 400px;
     left: 131px;
-    top: 320px;
-    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
