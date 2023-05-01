@@ -74,3 +74,12 @@ body{
     color: white;
     text-decoration: none;
   }
+  footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #A02341;
+    color: white;
+    text-align: center;
+}
